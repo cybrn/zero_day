@@ -1,1 +1,0 @@
-Using vagrant on desktop
